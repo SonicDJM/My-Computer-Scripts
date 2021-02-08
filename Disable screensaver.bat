@@ -1,0 +1,1 @@
+reg add "HKEY_USERS\.DEFAULT\Control Panel\Desktop" /v "ScreenSaveActive" /t REG_DWORD /d "0" /f

@@ -1,0 +1,1 @@
+SHUTDOWN /g -t 0
